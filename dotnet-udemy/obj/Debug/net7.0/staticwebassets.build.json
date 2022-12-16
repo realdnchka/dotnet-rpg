@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cJCfjUEgq6o+C5q5XY4MORuYCLb+HqySb4VYmlX2pPI=",
+  "Source": "dotnet-udemy",
+  "BasePath": "_content/dotnet-udemy",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
